@@ -12,7 +12,9 @@ typedef vector<int> VI;
 
 // int mem[100000];
 
-
+void function(){
+    cout<<"";  
+}
 
 void solve()
 {///
